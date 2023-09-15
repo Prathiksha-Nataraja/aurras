@@ -26,7 +26,8 @@ const [type, setType] = useState("signIn");
             <div className="overlay-panel overlay-left">
               <h1>Welcome Back!</h1>
               <p>
-                To keep connected with us please login with your personal info
+                To keep connected with us </p>
+                <p>please login with your personal info
               </p>
               <button
                 className="ghost"
